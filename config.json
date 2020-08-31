@@ -1,0 +1,19 @@
+﻿{
+  "browserpath": "C:\\Program Files\\Mozilla Firefox\\",
+  "fullname": "Bartosz Rogowski",
+  "email": "bartosz.rogovsky33@gmail.com",
+  "tel": "+48795585652",
+  "address": "Jakas ulica np. ul. Mieszkaniowa 40 m.20",
+  "address2": "sdasdasd",
+  "address3": "asdasda",
+  "city": "Poznan",
+  "postcode": "60689",
+  "country": "POLAND",
+  "links": {
+    "storemain": "https://www.supremenewyork.com/shop/all",
+    "storecart": "https://www.supremenewyork.com/shop/cart",
+    "storecheckout": "https://www.supremenewyork.com/checkout",
+    "droplisthostname":  "https://www.supremecommunity.com/",
+    "droplist": "https://www.supremecommunity.com/season/fall-winter2020/droplist/2020-08-20/"
+  }
+}

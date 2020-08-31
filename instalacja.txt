@@ -1,0 +1,28 @@
+﻿/////	WYMAGANIA	/////
+
+	a) Microsoft Windows 7, 8, 10 - 32bit lub 64bit
+	b) .NET Framework 4.7.2 lub wyżej
+	c) Firefox (testowane na wersji 80.0 64bit i działało :v)
+	d) Dostęp do neta.
+
+/////	TESTOWANE NA 	/////
+
+	Windows 10 Pro 64 bit
+	Intel i5-4440
+	NVidia GTX 650
+	8GB RAM
+	.NET Framework 4.7.2
+	Firefox v.80.0 64bit
+
+/////	INSTALACJA	/////
+
+	a) Wypakować paczkę
+	b) Firefox - skopiować "drivers/firefox/geckodriver.exe" do lokalizacji, gdzie Firefox jest zainstalowany - z reguły jest to "C:\Program Files\Mozilla Firefox\"
+	c) Skonfigurować plik config.json - pełna instrukcja dostępna w samym pliku
+
+/////	OBSŁUGA		/////
+
+	F1) Strona główna sklepu
+	F2) Dodaj do koszyka
+	F3) Idź do koszyka
+	F4) Idź do podsumowania
